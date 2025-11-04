@@ -2,14 +2,14 @@
   "name": "Timeer",
   "short_name": "Timeer",
   "description": "A simple, elegant timer application",
-  "start_url": "/",
+  "start_url": "/timeer/",
   "display": "standalone",
   "background_color": "#f9fafb",
   "theme_color": "#2563eb",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/vite.svg",
+      "src": "/timeer/vite.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
