@@ -3,6 +3,7 @@
   "short_name": "Timeer",
   "description": "A simple, elegant timer application",
   "start_url": "/timeer/",
+  "scope": "/timeer/",
   "display": "standalone",
   "background_color": "#f9fafb",
   "theme_color": "#2563eb",
